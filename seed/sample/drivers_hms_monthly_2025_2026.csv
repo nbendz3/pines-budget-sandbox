@@ -1,0 +1,13 @@
+month,days,available_room_nights_106_rooms,rooms_sold,transient_rooms,group_rooms,occupancy_pct,adr,revpar,room_revenue_hms,ooo_room_nights,source_note
+2025-01,31,3286,1417,,,43.1,138.54,59.74,196311.18,0,FROM BUILD KIT PAGE (occupancy rounded)
+2025-02,28,2968,1238,,,41.7,147.45,61.50,182543.10,0,FROM BUILD KIT PAGE (occupancy rounded)
+2025-03,31,3286,1538,,,46.8,143.31,67.08,220410.78,0,FROM BUILD KIT PAGE (occupancy rounded)
+2025-04,30,3180,1600,,,50.3,187.07,94.12,299312.00,0,FROM BUILD KIT PAGE (occupancy rounded)
+2025-05,31,3286,2054,,,62.5,234.15,146.36,480944.10,0,FROM BUILD KIT PAGE (occupancy rounded)
+2025-06,30,3180,2375,,,74.7,302.22,225.71,717772.50,0,FROM BUILD KIT PAGE (occupancy rounded)
+2025-07,31,3286,2826,,,86,342.47,294.53,967820.22,102,FROM BUILD KIT PAGE (occupancy rounded)
+2025-08,31,3286,2392,,,72.8,301.57,219.52,721355.44,0,FROM BUILD KIT PAGE (occupancy rounded)
+2025-09,30,3180,1848,,,58.1,227.73,132.34,420845.04,0,FROM BUILD KIT PAGE (occupancy rounded)
+2025-10,31,3286,2021,,,61.5,192.24,118.23,388517.04,0,FROM BUILD KIT PAGE (occupancy rounded)
+2025-11,30,3180,1596,,,50.2,182.84,91.76,291812.64,0,FROM BUILD KIT PAGE (occupancy rounded)
+2025-12,31,3286,1413,,,43,166.75,71.70,235617.75,0,FROM BUILD KIT PAGE (occupancy rounded)
